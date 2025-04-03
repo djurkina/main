@@ -1,2 +1,2 @@
 SERVICE_ACCOUNT_FILE = "credentials.json"  # Имя файла ключа сервисного аккаунта
-GOOGLE_ROOT_ID = "17fz8aiUNh7lJ7VcynQcJWw7UdtMAmOPq"  # Укажите ваш Google ID
+GOOGLE_ROOT_ID = 
